@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398291820386",
+    "project_id": "techiq-e7aed",
+    "storage_bucket": "techiq-e7aed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398291820386:android:4f93b23502984eaeb9d63b",
+        "android_client_info": {
+          "package_name": "com.techiq.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398291820386-1tqn1o5ekpolg6u1pjvcnrce3d9vbo9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techiq.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "398291820386-e7795jlqbs6h0q8ppucc5a9kq815ss6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsM6HUyZMTTo5eIfcc8ppkjYVI27faAtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398291820386-e7795jlqbs6h0q8ppucc5a9kq815ss6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
